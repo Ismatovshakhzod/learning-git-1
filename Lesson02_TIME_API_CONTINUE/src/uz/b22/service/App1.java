@@ -36,5 +36,7 @@ public class App1 {
                 LocalDate.now());
 
         System.out.println("days = " + days);
+          System.out.println("days = " + days);
+       
     }
 }
